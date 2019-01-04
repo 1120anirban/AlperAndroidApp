@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Alper Taxi App</string>
+    <string name="Need_a_New_Account">Need a New Account?</string>
+    <string name="Login">Login Here</string>
+    <string name="Register">Create Account</string>
+    <string name="MainPage">Welcome to Alper Taxi App!</string>
+    <string name="log_out">Log Out</string>
+    <string name="enter_your_email">Enter Your Email ...</string>
+    <string name="enter_your_password">Enter Your Password ...</string>
+    <string name="login">Login</string>
+    <string name="display_name">Display Name ...</string>
+    <string name="email">Email ...</string>
+    <string name="password">Password ...</string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="job_list">Job list</string>
+    <string name="title_activity_accept">Map ...</string>
+</resources>
